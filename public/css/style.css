@@ -1,0 +1,37 @@
+main > .container {
+  padding-top: 60px;
+}
+
+form > .container {
+  padding: 60px;
+  margin: 60px;
+}
+
+.circular-file-input {
+  border-radius: 50%;
+  overflow: hidden;
+  position: relative;
+  cursor: pointer;
+}
+.mt-3 {
+  margin-top: 20px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
+
+ /* .card:hover {
+  transform: scale(1.05);
+} 
+
+.modal-content .card:hover {
+    transform: none; 
+}
+
+.card-image-top {
+    object-fit: cover;
+} */
